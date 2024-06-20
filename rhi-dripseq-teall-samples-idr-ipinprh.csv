@@ -1,0 +1,5 @@
+﻿SampleID,Factor,Replicate,bamReads,ControlID,bamControl,Peaks,PeakCaller,Condition,Treatment,Tissue
+Ctrl.r1.ipinp,DRIP,1,1.r1.te.only.bam,Ctrl.Inp1,1.Input.te.only.bam,macs2/Rloop.teall.bed,bed,Females,Ctrl,Ovaries
+Ctrl.r2.ipinp,DRIP,2,1.r2.te.only.bam,Ctrl.Inp2,1.Input.te.only.bam,macs2/Rloop.teall.bed,bed,Females,Ctrl,Ovaries
+rhi.r1.ipinp,DRIP,1,2.r1.te.only.bam,rhi.Inp1,2.Input.te.only.bam,macs2/Rloop.teall.bed,bed,Females,rhi,Ovaries
+rhi.r2.ipinp,DRIP,2,2.r2.te.only.bam,rhi.Inp2,2.Input.te.only.bam,macs2/Rloop.teall.bed,bed,Females,rhi,Ovaries
